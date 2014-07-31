@@ -17,7 +17,7 @@ Files should ideally be saved as 'schreiner-page[N].md' (where [N] is the page n
 The table below should be kept updated as to which pages are claimed and which are completed.  
 If you do not wish to use Github to contribute then email via the link above and I can manually update your contribution(s).
 
-Many thanks in advance for your help. schüß!
+Many thanks in advance for your help. Schüß!
 
 Cole Henley  
 [@cole007](https://twitter.com/cole007)

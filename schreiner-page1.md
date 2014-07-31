@@ -1,6 +1,6 @@
 ***
-Page 1
-Date:
-Translator:
+Page 1  
+Date:  
+Translator:  
 ***
 
