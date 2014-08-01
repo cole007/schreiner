@@ -16,7 +16,7 @@ Files should ideally be saved as 'schreiner-page[N].md' (where [N] is the page n
 
 Once you have completed a page please make a [pull request](https://help.github.com/articles/using-pull-requests) to have your files pulled back into the master repository.
 
-If you do not wish to use Github to contribute then email via the link above and I can manually update your contribution(s).
+If you do not wish to use Github to contribute then [email via my profile page](https://github.com/cole007/) and I can manually update your contribution(s).
 
 If you think there are any issues with some of the translations submitted then please [file an issue](https://github.com/cole007/schreiner/issues) stating the page in question and the correct translation. 
 
