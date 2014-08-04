@@ -1,10 +1,19 @@
+***
+Page: 3 (including the last sentence carrying over from Page 2 and the first sentence carrying over to page 4)
+Date: 2014-08-03
+Translator: Jason McDowell (littletinyfish)
+
+I've included transcriptions of the original German text, which may prove useful for double checking meaning and accuracy.
+***
+
 -----Page 2-----
 Deutsch:
 (Nach dem damaligen Vereinsgesetz dürfte...
 
 -----Page 3-----
 ...man erst mit vollendetem 18. Lebensjahr Mitglied einer politischen Partei werden.)
-English: After, the former Club Law allowed one to become a member of a political party at the age of 18.
+English:
+After, the former Club Law allowed one to become a member of a political party at the age of 18.
 
 Deutsch:
 Vor meinem Eintritt in die Sozialistische Arbeiter-Jugend besuchte ich Kurse u. a. bei Clara Zetkin über die Urgesellschaft, bei Käthe und Hermann Duncker - die damals allesamt in Stuttgart wohnten - über Elementarfragen des wissenschaftlichen Sozialismus.
@@ -14,7 +23,7 @@ Before my entry in the Socialist Youth Workers, I visited classes with Clara Zet
 Deutsch:
 Wir haben auch in Diskussion abenden theoretische Literatur durchgearbeitet, so u. a. Kautsky's Vorläufer des Sozialismus, Ethik und materalistische Geschichtsauffassung etc.
 English:
-Also, we have worked through theoretical literature in evening discussions, among other things, Kautsky's precursor of Socialism, Ethics, and materialistic conception of history, etc.
+Also, we have worked through theoretical literature in evening discussions, among other things, Kautsky's precursor of Socialism, ethics, and materialistic conception of history, etc.
 
 Deutsch:
 Durch die sich durch Jahre fortsetzenden Kämpfe des linken Flügels der SPD gegen die Revisionisten, die in Württemberg besondere scharfe Formen annahmen, wurden wir Jungen zum "Stoßstrupp" der Linken, haben uns laufend mit den theoretischen Streitfragen beschäftigt und die entsprechenden theoretischen Streitschriften von Rosa Luxemburg, Pannekok, etc., die Neue Zeit, Leipziger Volkszeitung durchgearbeitet.
