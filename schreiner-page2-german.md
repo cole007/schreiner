@@ -1,0 +1,55 @@
+***
+Page: 2
+Date: 2014-08-03
+Transcriber: Jason McDowell (littletinyfish)
+
+I've included transcriptions of the original German text, which may prove useful for double checking meaning and accuracy.
+***
+
+-----Page 2------
+
+Deutsch:
+Die harte Kindheit lehrte mich frühzeitig über den Gegansatz zweischen arm und reich Vergleiche anzustellen.
+English:
+
+Deutsch:
+Aus der "Chemnitzer Volksstimme" (Parteizeitung der Sozialdemokratie für das Gabiat Chemnitz) und dem "Wahren Jakob" (Satirizche Wochenzeitschrift der SPD) empfing ich erate, mir heute noch erinnerliche politische Eindrücke.
+English:
+
+Deutsch:
+Bei allem primitiven Haß gegen die Reichen und bei aller Sympathie mit der Sozialdemokratie (ich denke da vor allem an die lebhafte Anteilnahme von uns Jungen an den Wahlen 1905 und 1907) nahm ich als Kind die Religion sehr ernst.
+English:
+
+Deutsch:
+Im Dezember 1906 seidelten meine Eltern nach Stuttgart über.
+English:
+
+Deutsch:
+Der Rest der Schulpflicht wurde mir auf Grund meiner Zeugnisse erlassen und Ostern 1907 begann ich meine vierjährige Lehrzeit als Maschinenschlosser bei der Firma Kuhn, Suttgart-Berg, späater Eßslinger Maschinenfabrik. Nach 10 stündiger Arbeitszeit mußten die Lehrlinge laut Lehrvertrag abends die Fachschule besuchen, wöchentlich 5 Tage.
+English:
+
+Deutsch:
+Die Gestellenprüfung habe ich Ostern 1911 mit sehr gut bestanden, wurde aber wegen meiner politischen Tätigkeit im Betrieb sofort entlassen.
+English:
+
+Deutsch:
+In dem für die damalige Zeit großen Betrieb existierte eine eigene Lehrlängsabteilung mit etwa 50 Lehrlingen.
+English:
+
+Deutsch:
+Als Mitglied des DMV hatte ich einen großen Teil der Lehrlinge für die Jugendabteilung des DMV und für die Sozialistische Arbeiterjungend gewonnen und auch unter den erwachsenen Arbeitern erfolgreich für den DMV geworben.
+English:
+
+Deutsch:
+Seit November 1908 war ich Mitglied der Sozialistischen Arbeiter-Jungend in Stuttgart, sehr bald als Leiter des Stadtteile Ostheim und gehört dem Vorstand von Groß-Stuttgart an.
+English:
+
+Deutsch:
+1909 war ich dem DMV beigatreten und am 7 Augugst 1910 der Sozialdemokratischen Partei.
+English:
+
+Deutsch:
+(Nach dem damaligen Vereinsgesetz durfte man erst mit vollendetem 18. Lebensjahr Mitglied einer politischen Partei werden.)
+English:
+
+-----Page 2------
